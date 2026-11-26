@@ -1,7 +1,1 @@
-{
-  "site": "nav",
-  "domain": "nav.51invest.com",
-  "source": "dist/nav",
-  "builtAt": "2026-11-25T09:38:05.250Z",
-  "note": "Static GitHub Pages deployment."
-}
+{"site":"nav","servedDomain":"nav.51invest.com","canonical":"https://nav.51invest.com","source":"dist/nav","builtAt":"2026-11-26T02:15:37Z","pages":2,"articles":0,"commit":"250e8e6","tag":"release-351-2026-11-26","note":"Static GitHub Pages deployment for the 351 baseline at nav.51invest.com."}
